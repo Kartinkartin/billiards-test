@@ -1,0 +1,20 @@
+.menu_container {
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    background-color: beige;
+    position: absolute;
+}
+
+.menu_button {
+    width: 100px;
+    font-size: 16px;
+    padding: 5px;
+    border: solid;
+    border-width: 1px;
+    border-color: black;
+}
+
+.menu_input {
+    display: none;
+}
