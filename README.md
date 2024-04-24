@@ -1,8 +1,11 @@
-# Getting Started with Create React App
+# Тестовое
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Бильярд
 
-## Available Scripts
+- Есть прямоугольное поле Canvas, на прямоугольном поле расположены шары разного размера
+- Я могу толкнуть мышкой шар в сторону
+- Шар упруго соударяется с другими шарами и стенками, часть импульса при соударении теряется. 
+- Если шар кликнуть, то появляется менюшка, выполненная с помощью React, с помощью которой можно поменять цвет заливки шара. 
 
 In the project directory, you can run:
 
